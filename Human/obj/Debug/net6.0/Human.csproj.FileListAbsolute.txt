@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\bin\Debug\net6.0\Human.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\bin\Debug\net6.0\Human.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\bin\Debug\net6.0\Human.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\bin\Debug\net6.0\Human.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\bin\Debug\net6.0\Human.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\refint\Human.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\Human.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Human\obj\Debug\net6.0\ref\Human.dll
